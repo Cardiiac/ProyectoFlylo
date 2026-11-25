@@ -1,8 +1,7 @@
 //
 //  ProyectoFlyloApp.swift
 //  ProyectoFlylo
-//
-//  Created by user301904 on 11/25/26.
+//  Punto de entrada de la aplicación Flylo
 //
 
 import SwiftUI
