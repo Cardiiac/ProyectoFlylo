@@ -2,9 +2,8 @@
 //  AppColors.swift
 //  ProyectoFlylo
 //
-//  Created for PA4 - Flylo Turismo (Inspirado en Behance FlyloAI)
+//  Created by user301904 on 11/25/26.
 //
-
 import SwiftUI
 
 struct AppColors {

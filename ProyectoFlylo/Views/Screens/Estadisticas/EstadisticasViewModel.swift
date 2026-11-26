@@ -1,9 +1,9 @@
 //
 //  EstadisticasViewModel.swift
 //  ProyectoFlylo
-//  ViewModel para Gráfico de Barras con datos de servicio web
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import Foundation
 
 @Observable

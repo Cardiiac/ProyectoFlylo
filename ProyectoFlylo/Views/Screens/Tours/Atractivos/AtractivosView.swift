@@ -1,9 +1,9 @@
 //
 //  AtractivosView.swift
 //  ProyectoFlylo
-//  Pantalla 2 del Maestro-Detalle - Idéntica a ProductosView de ProyectoLoki
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 
 struct AtractivosView: View {

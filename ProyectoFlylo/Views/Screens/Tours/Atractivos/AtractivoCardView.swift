@@ -1,9 +1,9 @@
 //
 //  AtractivoCardView.swift
 //  ProyectoFlylo
-//  Inspirado en ProductoCardView de ProyectoLoki
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 
 struct AtractivoCardView: View {

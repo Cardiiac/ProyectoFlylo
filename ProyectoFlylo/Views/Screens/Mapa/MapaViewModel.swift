@@ -1,9 +1,9 @@
 //
 //  MapaViewModel.swift
 //  ProyectoFlylo
-//  ViewModel para el Mapa con marcadores desde servicio web (Alwaysdata)
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import Foundation
 import SwiftUI
 import MapKit

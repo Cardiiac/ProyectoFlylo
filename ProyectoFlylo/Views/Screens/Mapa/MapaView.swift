@@ -1,9 +1,9 @@
 //
 //  MapaView.swift
 //  ProyectoFlylo
-//  Requisito PA4: Mapa con marcadores (lat, long, etiqueta) desde servicio web (MapKit)
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 import MapKit
 

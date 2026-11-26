@@ -1,9 +1,9 @@
 //
 //  AppRoute.swift
 //  ProyectoFlylo
-//  Sistema de navegación y AppRouter desacoplado idéntico a ProyectoLoki
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 
 enum AppRoute: Hashable {

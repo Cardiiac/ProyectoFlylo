@@ -1,9 +1,9 @@
 //
 //  GaleriaView.swift
 //  ProyectoFlylo
-//  Galería de imágenes remotas - Idéntica a EmpleadosView de ProyectoLoki
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 
 struct GaleriaView: View {

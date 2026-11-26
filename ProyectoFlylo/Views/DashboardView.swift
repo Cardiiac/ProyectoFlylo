@@ -1,9 +1,9 @@
 //
 //  DashboardView.swift
 //  ProyectoFlylo
-//  Implementación idéntica al Dashboard de ProyectoLoki
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 
 struct MenuItemTurismo: Identifiable, Hashable {

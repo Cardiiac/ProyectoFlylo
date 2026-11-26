@@ -1,9 +1,9 @@
 //
 //  BienvenidaView.swift
 //  ProyectoFlylo
-//  Inspirado en Behance FlyloAI
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 
 struct BienvenidaView: View {

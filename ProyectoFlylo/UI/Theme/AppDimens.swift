@@ -2,9 +2,8 @@
 //  AppDimens.swift
 //  ProyectoFlylo
 //
-//  Created for PA4 - Flylo Turismo
+//  Created by user301904 on 11/25/26.
 //
-
 import SwiftUI
 
 enum AppDimens {

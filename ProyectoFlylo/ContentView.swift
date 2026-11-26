@@ -1,9 +1,9 @@
 //
 //  ContentView.swift
 //  ProyectoFlylo
-//  Navegación central desacoplada idéntica a ContentView de ProyectoLoki
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 
 struct ContentView: View {

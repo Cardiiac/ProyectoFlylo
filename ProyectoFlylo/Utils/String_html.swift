@@ -1,9 +1,9 @@
 //
 //  String_html.swift
 //  ProyectoFlylo
-//  Implementación idéntica a ProyectoLoki con soporte completo para UIKit
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 import Foundation
 import UIKit

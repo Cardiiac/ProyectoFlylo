@@ -1,9 +1,9 @@
 //
 //  EstadisticasView.swift
 //  ProyectoFlylo
-//  Requisito PA4: Gráfico de barras con datos desde servicio web (Swift Charts)
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 import Charts
 

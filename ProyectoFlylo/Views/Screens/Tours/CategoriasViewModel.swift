@@ -1,9 +1,9 @@
 //
 //  CategoriasViewModel.swift
 //  ProyectoFlylo
-//  Patrón idéntico a TiendaViewModel de ProyectoLoki
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import Foundation
 
 @Observable

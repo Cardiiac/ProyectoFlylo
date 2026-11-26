@@ -1,9 +1,9 @@
 //
 //  Destino.swift
 //  ProyectoFlylo
-//  Modelo original de la PA1
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import Foundation
 
 struct Destino: Codable, Identifiable, Hashable {

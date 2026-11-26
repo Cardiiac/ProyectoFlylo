@@ -1,9 +1,9 @@
 //
 //  DestinosPopularesView.swift
 //  ProyectoFlylo
-//  Integración estilizada del módulo de la PA1
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 
 struct DestinosPopularesView: View {

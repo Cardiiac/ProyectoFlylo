@@ -1,9 +1,9 @@
 //
 //  AtractivoDetalleItemView.swift
 //  ProyectoFlylo
-//  Estructura idéntica a ProductoDetalleItemView de ProyectoLoki
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 
 struct AtractivoDetalleItemView: View {
@@ -77,7 +77,7 @@ struct AtractivoDetalleItemView: View {
                 .clipShape(RoundedRectangle(cornerRadius: AppDimens.Radius.medium))
             }
             
-            // Ficha técnica en Grid (idéntico a Loki)
+// Ficha técnica del destino
             VStack(alignment: .leading, spacing: 10) {
                 Text("Ficha Turística")
                     .font(AppTypography.title3)

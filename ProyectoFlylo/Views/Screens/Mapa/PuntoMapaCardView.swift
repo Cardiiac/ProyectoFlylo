@@ -1,9 +1,9 @@
 //
 //  PuntoMapaCardView.swift
 //  ProyectoFlylo
-//  Tarjeta de detalle rápido para el punto seleccionado en el mapa
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 
 struct PuntoMapaCardView: View {

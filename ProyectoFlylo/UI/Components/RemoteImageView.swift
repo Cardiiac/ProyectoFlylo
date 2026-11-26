@@ -2,9 +2,8 @@
 //  RemoteImageView.swift
 //  ProyectoFlylo
 //
-//  Componente nativo reutilizable para carga y visualización de imágenes remotas
+//  Created by user301904 on 11/25/26.
 //
-
 import SwiftUI
 
 struct RemoteImageView: View {

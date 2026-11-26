@@ -1,9 +1,9 @@
 //
 //  CategoriasView.swift
 //  ProyectoFlylo
-//  Pantalla 1 del Maestro-Detalle (Categorías) - Idéntica a TiendaView de ProyectoLoki
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import SwiftUI
 
 struct CategoriasView: View {

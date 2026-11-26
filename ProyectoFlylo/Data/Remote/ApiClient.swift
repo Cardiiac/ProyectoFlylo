@@ -2,9 +2,8 @@
 //  ApiClient.swift
 //  ProyectoFlylo
 //
-//  Estructura base idéntica a ProyectoLoki
+//  Created by user301904 on 11/25/26.
 //
-
 import Foundation
 
 enum ApiClient {

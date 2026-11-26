@@ -1,9 +1,9 @@
 //
 //  MapaRepository.swift
 //  ProyectoFlylo
-//  Estructura idéntica a OficinasRepository de ProyectoLoki
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import Foundation
 
 struct MapaRepository {

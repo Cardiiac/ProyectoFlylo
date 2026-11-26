@@ -1,9 +1,9 @@
 //
 //  DestinosPopularesViewModel.swift
 //  ProyectoFlylo
-//  Integración del servicio de la PA1 con arquitectura moderna
 //
-
+//  Created by user301904 on 11/25/26.
+//
 import Foundation
 
 @Observable
